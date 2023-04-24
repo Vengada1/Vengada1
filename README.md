@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm [Vengadanathan]!
 
-I am a [Your Profession] passionate about [Your Interests]. I love [Some Fun Fact About You].
+I am a [MERN STACK] passionate about [CREATING WEBPAGES]. I love [Some Fun Fact About You].
 
 ## 🔭 I'm Currently Working On
 
@@ -19,7 +19,7 @@ I am a [Your Profession] passionate about [Your Interests]. I love [Some Fun Fac
 
 ## 📫 How to Reach Me
 
-- Email: [you@example.com](mailto:you@example.com)
+- Email: [venkatnathan10@gmail.com.com](mailto:you@example.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 - Website: [Your Personal Website](https://example.com)
 
