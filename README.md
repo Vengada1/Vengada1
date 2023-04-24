@@ -4,7 +4,27 @@
 I am a MERN STACK passionate about CREATING WEBPAGES
 
 ## 🌱 I'm Currently Learning
-https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif
+<!-- Add HTML logo -->
+<img src="https://example.com/html-logo.png" alt="HTML Logo" width="50" height="50" />
+
+<!-- Add CSS logo -->
+<img src="https://example.com/css-logo.png" alt="CSS Logo" width="50" height="50" />
+
+<!-- Add JS logo -->
+<img src="https://example.com/js-logo.png" alt="JS Logo" width="50" height="50" />
+
+<!-- Add React logo -->
+<img src="https://example.com/react-logo.png" alt="React Logo" width="50" height="50" />
+
+<!-- Add PHP logo -->
+<img src="https://example.com/php-logo.png" alt="PHP Logo" width="50" height="50" />
+
+<!-- Add MongoDB logo -->
+<img src="https://example.com/mongodb-logo.png" alt="MongoDB Logo" width="50" height="50" />
+
+<!-- Add MySQL logo -->
+<img src="https://example.com/mysql-logo.png" alt="MySQL Logo" width="50" height="50" />
+
 
 
 ## 📫 How to Reach Me
