@@ -1,24 +1,16 @@
 
-# Hi there! 👋 I'm Vengadanathan!
+### Hello🙏, I'm Vengadanathan - An Aspiring Full-stack dev 👋
 
-I am a MERN STACK passionate about CREATING WEBPAGES
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128@2x.png" alt="mongodb" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>      </p>
 
-## 🌱 I'm Currently Learning
-<!-- Add HTML logo -->
-<img src="https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png" alt="HTML Logo" width="50" height="50" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mkandanmk7&show_icons=true&locale=en&layout=compact" alt="mkandanmk7" /></p>
 
-<!-- Add JS logo -->
-<img src="https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640" alt="JS Logo" width="50" height="50" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mkandanmk7&show_icons=true&locale=en" alt="mkandanmk7" /></p>
 
-<!-- Add React logo -->
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*EitUXT-pqbaQSCTt.gif" alt="React Logo" width="50" height="50" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkandanmk7&" alt="mkandanmk7" /></p>
 
-
-<!-- Add MongoDB logo -->
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB Logo" width="50" height="50" />
-
-<!-- Add MySQL logo -->
-<img src="https://e7.pngegg.com/pngimages/1018/16/png-clipart-mysql-workbench-database-mysql-cluster-others-text-logo.png" alt="MySQL Logo" width="50" height="50" />
+<!-- &nbsp; -->
 
 
 
@@ -40,3 +32,4 @@ portfolio :[https://vengadanathan-portfolio.netlify.app/]
 ## 🏆 My GitHub Trophies
 
 ![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
